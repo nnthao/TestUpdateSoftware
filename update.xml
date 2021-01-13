@@ -1,6 +1,6 @@
 <item>
 <version>2.0.0.0</version>
-<url>https://thao-test-upload.herokuapp.com/TestAutoUpdate.zip</url>
+<url>https://thao-test-upload.herokuapp.com/JiraService.zip</url>
 <changelog>https://thao-test-upload.herokuapp.com</changelog>
 <mandatory mode="2">true</mandatory>
 </item>
