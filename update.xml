@@ -2,5 +2,5 @@
 <version>2.0.0.0</version>
 <url>https://thao-test-upload.herokuapp.com/JiraService.zip</url>
 <changelog>https://thao-test-upload.herokuapp.com</changelog>
-<mandatory mode="2">true</mandatory>
+<mandatory mode="2">false</mandatory>
 </item>
